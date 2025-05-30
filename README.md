@@ -195,6 +195,6 @@ Untuk versi yang lebih aman dan kompleks, disarankan menggunakan:
 ## 🧑‍💻 Dibuat oleh
 
 Dwi Bakti N Dev
-```
+
 <img src = "https://images.ctfassets.net/tldhjvq55hjd/73G7StXzh4d2prcNmYWEXQ/239dfa3c7b176c786003be5fa8fba77b/curity-blog-design-oauth-login-workflow-4.webp?fm=webp">
----
+
