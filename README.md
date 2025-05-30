@@ -1,4 +1,4 @@
-
+<img src ="https://docs.losant.com/images/guides/how-to-build-an-experience/log-in-page/workflow.png">
 ---
 
 ### 💻 STRUKTUR PROYEK
@@ -137,7 +137,7 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
 
 ## 📘 5. `README.md`
 
-```markdown
+
 # Login Menu (Tanpa PHPMyAdmin dan Server)
 
 Login sederhana menggunakan HTML, CSS, dan JavaScript tanpa database dan tanpa backend seperti PHP atau MySQL.
